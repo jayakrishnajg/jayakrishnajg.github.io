@@ -1,3 +1,6 @@
+---
+title: Give Up?
+---
 #Are you sure you want to give up?
 
 - [No. Take me back](https://jayakrishnajg.github.io/crossword.html)
